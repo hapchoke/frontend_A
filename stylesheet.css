@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.api-text-area{
+    height: 300px;
+    width: 300px;
+}
